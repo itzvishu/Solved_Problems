@@ -19,12 +19,13 @@ public:
                 E++;
             }
             else{
-                //req_chair=max(E,E-L);
+                
 
                 L++;
                
             }
         req_chair=max(req_chair,E-L);
+        //if (E - L > req_chair) {req_chair = E - L;}
 
         }
         return (req_chair);
