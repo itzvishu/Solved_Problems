@@ -7,13 +7,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 1 | 1 | 0 | 0 |
+| LeetCode | 2 | 2 | 0 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **1** | **1** | **0** | **0** |
+| **Total** | **2** | **2** | **0** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/2016_MaximumDifferenceBetweenIncreasingElements.cpp) |
+| 2 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/485_MaxConsecutiveOnes.cpp) |
 <!-- COMMITDSA_END -->
