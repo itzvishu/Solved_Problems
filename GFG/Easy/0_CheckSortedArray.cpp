@@ -10,13 +10,20 @@ using namespace std;
 class Solution {
   public:
     bool isSorted(vector<int>& arr) {
-        // code here
+        bool sorted=false;
         int n = arr.size();
+        int count =0;
         for (int i=1;i<n;i++){
-            if(arr[i]-arr[i-1]<0){
-                return false;
+            if(arr[i]-arr[i-1]>=0){
+               count++;
             }
+            
+            }
+            if (count==n-1){
+                sorted =true;
+            
         }
-        return true;
+        return sorted ;
+      
     }
 };
