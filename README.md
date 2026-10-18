@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 4 | 4 | 0 | 0 | - |
-| GeeksforGeeks | 4 | 2 | 0 | 0 | 2 |
-| **Total** | **8** | **6** | **0** | **0** | **2** |
+| GeeksforGeeks | 5 | 3 | 0 | 0 | 2 |
+| **Total** | **9** | **7** | **0** | **0** | **2** |
 
 ## Solved Problems
 
@@ -20,7 +20,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3168_MinimumNumberOfChairsInAWaitingRoom.cpp) |
 | 4 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/485_MaxConsecutiveOnes.cpp) |
 | 5 | [Check Sorted Array](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckSortedArray.cpp) |
-| 6 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
-| 7 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
-| 8 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
+| 6 | [Remove Duplicates Sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_RemoveDuplicatesSortedArray.cpp) |
+| 7 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
+| 8 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
+| 9 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
 <!-- COMMITDSA_END -->
