@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 4 | 4 | 0 | 0 | - |
-| GeeksforGeeks | 5 | 3 | 0 | 0 | 2 |
-| **Total** | **9** | **7** | **0** | **0** | **2** |
+| GeeksforGeeks | 6 | 3 | 0 | 0 | 3 |
+| **Total** | **10** | **7** | **0** | **0** | **3** |
 
 ## Solved Problems
 
@@ -24,4 +24,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 7 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
 | 8 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
 | 9 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
+| 10 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
 <!-- COMMITDSA_END -->
