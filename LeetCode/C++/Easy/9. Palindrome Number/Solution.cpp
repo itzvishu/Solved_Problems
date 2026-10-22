@@ -6,7 +6,7 @@ public:
         int n=0;
         int rev_num=0;
         if(x==0){
-            return 0;
+            return false;
         }
         while(x>0){
             n=x%10;
