@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 4 | 4 | 0 | 0 | - |
-| GeeksforGeeks | 8 | 4 | 1 | 0 | 3 |
-| **Total** | **12** | **8** | **1** | **0** | **3** |
+| GeeksforGeeks | 9 | 4 | 1 | 0 | 4 |
+| **Total** | **13** | **8** | **1** | **0** | **4** |
 
 ## Solved Problems
 
@@ -25,6 +25,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
 | 9 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SumOfNaturalNumbers.cpp) |
 | 10 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
-| 11 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
-| 12 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
+| 11 | [Count Odd and Even](https://practice.geeksforgeeks.org/problems/count-odd-even/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CountOddAndEven.cpp) |
+| 12 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
+| 13 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
 <!-- COMMITDSA_END -->
