@@ -25,6 +25,6 @@ public:
     }
     
     }
-    return prime_count;
+    return prime_count-2;
     }
 };
