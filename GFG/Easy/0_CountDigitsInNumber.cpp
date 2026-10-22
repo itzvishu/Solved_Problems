@@ -16,9 +16,9 @@ class Solution {
             digitsum=1;
         }
         while(n>0){
-            
-            n=n/10;
             digitsum++;
+            n=n/10;
+            
             
         }
         
