@@ -9,8 +9,9 @@ public:
             return false;
         }
         
-        
+        int x=x/2;
         while(x>0){
+
             n=x%10;
             x=x/10;
             rev_num=rev_num*10+n;
