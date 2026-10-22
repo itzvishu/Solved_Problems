@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         bool pal=false;
-        int org=x;
+        int org=x;//at last yhe x becomes zero so we have to store it somewhere int order to compare with reversed number to get palindrome
         int n=0;
         int rev_num=0;
         if(x==0){
