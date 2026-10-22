@@ -12,6 +12,7 @@ public:
         else if(x==0){
             return true;
         }
+        else{
         while(x>0){
             n=x%10;
             x=x/10;
@@ -19,7 +20,7 @@ public:
         }
         
         if(org==rev_num){
-            pal= true;}
+            pal= true;}}
         return pal;
     }
 };
