@@ -1,30 +1,29 @@
 class Solution {
 public:
     int countPrimes(int n) {
-    bool prime=true;
-    int count=0;
-    int prime_count=0; 
-    if (n<=2){
-        prime=false;
-    }
-    // if (n==2){
-    //     prime_count=0;
-    // }
-    for (int j=0;j<n;j++){
-    for (int i=2;i<j;i++){
-        if (n%i==0){
-            count++;
+       int prime_cnt=0;
+       for (int i=2;i<n;i++){
+        int count=0;
+        bool prime=true;
+        if (i<3){
+            prime=false;
+            prime_cnt=0;
+        }
+        while(i>0){
+            for(int j=2;j<i;j++){
+                if(i%j==0){
+                    count++;
+                }
+            }
+        }
+        if (count<1){
+            prime =true;
 
         }
-    }
-    if (count>1){
-        prime =false;
-    }
-    if (prime==true){
-        prime_count++;
-    }
-    
-    }
-    return prime_count;
+        if (prime==true){
+        prime_cnt++;
+       }
+       } 
+       return prime_cnt;
     }
 };
