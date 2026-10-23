@@ -2,7 +2,7 @@ class Solution {
 public:
     int countPrimes(int n) {
        int prime_cnt=0;
-        if (n<=2){
+        if (i<=2){
             return 0;
         }
        for (int i=2;i<n;i++){
@@ -10,7 +10,7 @@ public:
         bool prime=true;
        
         
-            for(int j=2;j*j<=i;j++){
+            for(int j=2;j<i;j++){
                 if(i%j==0){
                     count++;
                     break;
