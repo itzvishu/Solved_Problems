@@ -16,8 +16,8 @@ public:
                 }
             }
         
-        if (count<1){
-            prime =true;
+        if (count>1){
+            prime =false;
 
         }
         if (prime==true){
