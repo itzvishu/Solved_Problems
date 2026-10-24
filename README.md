@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 5 | 0 | 0 | - |
-| GeeksforGeeks | 14 | 8 | 1 | 0 | 5 |
-| **Total** | **19** | **13** | **1** | **0** | **5** |
+| GeeksforGeeks | 15 | 9 | 1 | 0 | 5 |
+| **Total** | **20** | **14** | **1** | **0** | **5** |
 
 ## Solved Problems
 
@@ -26,12 +26,13 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 9 | [Count Digits in Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountDigitsInNumber.cpp) |
 | 10 | [Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_PrimeNumber.cpp) |
 | 11 | [Remove Duplicates Sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_RemoveDuplicatesSortedArray.cpp) |
-| 12 | [Reverse Digits](https://practice.geeksforgeeks.org/problems/reverse-digit0316/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseDigits.cpp) |
-| 13 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
-| 14 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SumOfNaturalNumbers.cpp) |
-| 15 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
-| 16 | [Count Odd and Even](https://practice.geeksforgeeks.org/problems/count-odd-even/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CountOddAndEven.cpp) |
-| 17 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
-| 18 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
-| 19 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
+| 12 | [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-an-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseArray.cpp) |
+| 13 | [Reverse Digits](https://practice.geeksforgeeks.org/problems/reverse-digit0316/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseDigits.cpp) |
+| 14 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
+| 15 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SumOfNaturalNumbers.cpp) |
+| 16 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
+| 17 | [Count Odd and Even](https://practice.geeksforgeeks.org/problems/count-odd-even/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CountOddAndEven.cpp) |
+| 18 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
+| 19 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
+| 20 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
 <!-- COMMITDSA_END -->
