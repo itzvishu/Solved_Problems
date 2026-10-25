@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 5 | 0 | 0 | - |
-| GeeksforGeeks | 16 | 10 | 1 | 0 | 5 |
-| **Total** | **21** | **15** | **1** | **0** | **5** |
+| GeeksforGeeks | 17 | 11 | 1 | 0 | 5 |
+| **Total** | **22** | **16** | **1** | **0** | **5** |
 
 ## Solved Problems
 
@@ -22,18 +22,19 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 5 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/507_PerfectNumber.cpp) |
 | 6 | [All Divisors of Number](https://practice.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_AllDivisorsOfNumber.cpp) |
 | 7 | [Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ArmstrongNumbers.cpp) |
-| 8 | [Check Sorted Array](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckSortedArray.cpp) |
-| 9 | [Count Digits in Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountDigitsInNumber.cpp) |
-| 10 | [Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_PrimeNumber.cpp) |
-| 11 | [Remove Duplicates Sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_RemoveDuplicatesSortedArray.cpp) |
-| 12 | [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-an-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseArray.cpp) |
-| 13 | [Reverse Digits](https://practice.geeksforgeeks.org/problems/reverse-digit0316/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseDigits.cpp) |
-| 14 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
-| 15 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SelectionSort.cpp) |
-| 16 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SumOfNaturalNumbers.cpp) |
-| 17 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
-| 18 | [Count Odd and Even](https://practice.geeksforgeeks.org/problems/count-odd-even/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CountOddAndEven.cpp) |
-| 19 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
-| 20 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
-| 21 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
+| 8 | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_BubbleSort.cpp) |
+| 9 | [Check Sorted Array](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckSortedArray.cpp) |
+| 10 | [Count Digits in Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountDigitsInNumber.cpp) |
+| 11 | [Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_PrimeNumber.cpp) |
+| 12 | [Remove Duplicates Sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_RemoveDuplicatesSortedArray.cpp) |
+| 13 | [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-an-array/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseArray.cpp) |
+| 14 | [Reverse Digits](https://practice.geeksforgeeks.org/problems/reverse-digit0316/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseDigits.cpp) |
+| 15 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SecondLargest.cpp) |
+| 16 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SelectionSort.cpp) |
+| 17 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SumOfNaturalNumbers.cpp) |
+| 18 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArraySearch.cpp) |
+| 19 | [Count Odd and Even](https://practice.geeksforgeeks.org/problems/count-odd-even/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CountOddAndEven.cpp) |
+| 20 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
+| 21 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LargestInArray.cpp) |
+| 22 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RotateArrayByOne.cpp) |
 <!-- COMMITDSA_END -->
