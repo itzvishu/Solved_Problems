@@ -3,9 +3,9 @@ public:
     void rotate(vector<int>& nums, int k) {
         
        int n=nums.size();
-       
-             k=k%n;
-               for(int j=0;j<k;j++){
+       if(n==0)return;
+             //k=k%n;
+               for(int j=0;j<k%n;j++){
                 int last=nums[n-1];
                 for(int i=n-1;i>0;i--){
 
