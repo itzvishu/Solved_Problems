@@ -4,8 +4,9 @@ public:
         
        int n=nums.size();
        if(n==0) return;
-             //k=k%n;
-               for(int j=0;j<k%n;j++){
+       k=k%n;
+       
+               for(int j=0;j<k;j++){
                 int last=nums[n-1];
                 for(int i=n-1;i>0;i--){
 
