@@ -1,18 +1,24 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
+        int n=nums.size();
         
-       int n=nums.size();
-       if(n==0) return;
-       k=k%n;
-       
-               for(int j=0;j<k;j++){
-                int last=nums[n-1];
-                for(int i=n-1;i>0;i--){
-
-                    nums[i]=nums[i-1];
-                }
-                nums[0]=last;
-               }  
+        k=k%n;//rotation is circular if we do k=n rotation we get the original array and if we do k=n+1 rotation we get the result as n+1 rotation
+    vector<int>temp(k);     
+    //for storing the value in the array  
+    for(int j=0;j<k;j++){
+    temp[j]=nums[n-k+j];
+    }
+    //for shifting the elements k places 
+    for(int j=n-1;j>=k;j--){
+        nums[j]=nums[j-k];
+    
+    }
+        //for storing the elements at j position of n stored int temp 
+            
+        for(int i=0;i<k;i++){
+            nums[i]=temp[i];
+           
+        }
     }
 };
